@@ -1,0 +1,11 @@
+Scrivere una funzione chiamata maggiore che riceve due numeri e restituiesce il più grande
+    funzione maggiore(numero1, numero2)
+    //verifico quale numero è più grande
+    allora
+        risultato = numero1
+    altrimenti
+        risultato = numero2
+    end
+    //restituisco il risultato
+    restituisci risultato
+fin

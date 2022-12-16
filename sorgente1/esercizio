@@ -1,0 +1,26 @@
+Scrivere la funzione controllo che riceve due numeri e restituisce
+ “uguali” se sono uguali, “diversi” se sono diversi
+funzione controllo (numero1, numero2)
+    //verifico quale numero è uguale
+    // verifico quale numero è diverso
+se numero1 = numero2
+allora
+    risultato "uguali"
+altrimenti
+    risultato "diversi"
+fine se
+
+//restituisco il risultato
+restituisci il risultato
+fine
+ // verifico quale numero è diverso
+ se numero1 non = numero2
+allora
+    risultato "diversi"
+altrimenti
+    risultato "uguale"
+fine se
+
+//restituisco il risultato
+restituisci il risultato
+fine
