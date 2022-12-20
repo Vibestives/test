@@ -24,3 +24,31 @@ fine se
 //restituisco il risultato
 restituisci il risultato
 fine
+Scrivi lo pseudocodice della funzione chiamata Negativi, 
+che riceve due numeri e restituisce in numero di quelli che 
+hanno segno negativo (restituisce 0 se tutti hanno segno positivo)
+funzione negativi (numero1, numero2)
+//verifico se entrambi i valori sono positivi
+se numero 1 >0 e numero2<0
+allora
+risultato = 0
+altrimenti
+//verifico se entrambi i valori sono negativi
+se numero1 1 <0 e numero2 < 0
+allora
+risultato = 2
+altrimenti
+risultato = 1
+    fine se
+fine se
+//restituisco il risultato
+//restituisce il risultato
+end
+Scrivi lo pseudocodice della funzione chiamata Calcola, che riceve
+ quattro numeri chiamati a, b, c, d e restituisce il risultato di a*b+c*d
+ funziona Calcola(numero1, numero2, numero3, numero4)
+ //calcola il risultato
+ risultato = numero1*numero2*numero3*numero4
+ //restituisco il risultato
+//restituisce il risultato
+end
